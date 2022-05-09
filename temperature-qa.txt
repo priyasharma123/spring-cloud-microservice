@@ -1,0 +1,2 @@
+temperature.min_temp=20
+temperature.max_temp=46
